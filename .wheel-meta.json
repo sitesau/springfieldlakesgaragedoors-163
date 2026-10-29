@@ -1,0 +1,22 @@
+{
+  "wheel_id": 510,
+  "structure": "umbrella",
+  "slug": "springfieldlakesgaragedoors-163",
+  "project": "garage-door-repairs-springfield-lakes-beginner-guide-bd3b946280",
+  "parent_t1_ref": "springfieldlakesgaragedoors-010",
+  "node_role": "buffer",
+  "money_target": "springfieldlakesgaragedoors.com.au",
+  "primary_kw": "garage door repairs springfield lakes beginner guide",
+  "intended_url": "https://aumedia.neocities.org/garage-door-repairs-springfield-lakes-beginner-guide-bd3b946280/",
+  "tier": "T2",
+  "writeback_nonce": "a7314f55c81036bb",
+  "links": [
+    {
+      "target_url": "https://garage-door-repairs-springfield-lakes-springfieldlakesga-1e4cf3.gitlab.io/",
+      "anchor": "Garage Door Repairs Springfield Lakes: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
